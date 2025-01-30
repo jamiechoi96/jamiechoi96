@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=CHOI1027&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#ccc&height=300&section=header&text=CHOI1027&fontSize=100)
 ### <h2 align="center">💻 Tech Stack 💻</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
