@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0:A020F0,1:8A2BE2&height=300&section=header&text=CHOI1027&fontSize=100&fontColor=ffffff&stroke=8A2BE2&strokeWidth=3" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0:6a0dad,1:8A2BE2&height=300&section=header&text=CHOI1027&fontSize=100&fontAlignY=40&fontColor=ffffff" alt="header"/>
 </p>
+
 
 <!-- ### <h2 align="center">💻 Tech Stack 💻</h2> -->
 
