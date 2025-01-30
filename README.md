@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=CHOI1027&fontSize=100)
-# Hello👋
+💻 Tech Stack 💻
 - 이메일: jamiechoi96@naver.com
 - GitHub: https://github.com/jamiechoi96
 - TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes
