@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# HEllo👋
+## 저는 개발자입니다.
+- 기술 스택: Python, JavaScript, Node.js, React
+- 이메일: jamiechoi96@naver.com
+- GitHub: https://github.com/jamiechoi96
+- TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes
