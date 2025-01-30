@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=CHOI1027%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=CHOI1027&fontSize=100)
 # Hello👋
 - 이메일: jamiechoi96@naver.com
 - GitHub: https://github.com/jamiechoi96
