@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # Hello👋
 - 이메일: jamiechoi96@naver.com
 - GitHub: https://github.com/jamiechoi96
 - TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
