@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=ccc&height=300&section=header&text=CHOI1027&fontSize=100)
-### <h2 align="center">💻 Tech Stack 💻</h2>
+<!-- ### <h2 align="center">💻 Tech Stack 💻</h2> -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 </p>
