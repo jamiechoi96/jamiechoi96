@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black" alt="JavaScript Badge"/>
+</p>
 
 <br>
 <br>
