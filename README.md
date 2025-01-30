@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 이메일: jamiechoi96@naver.com
 - GitHub: https://github.com/jamiechoi96
 - TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
