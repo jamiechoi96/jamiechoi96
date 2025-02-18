@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 - [프로젝트 보러가기](https://github.com/jamiechoi96/team3_web)
 
 ## 연락처
-- 이메일: your.email@example.com
-- 링크드인: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 이메일: jamiechoi96@naver.com
+- 링크드인: 
 
 ## 현재 학습 중
 - 데이터 분석 및 시각화 역량 강화
