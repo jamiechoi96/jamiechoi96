@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 
 ## 연락처
 - 이메일: jamiechoi96@naver.com
+- GitHub: https://github.com/jamiechoi96
+- TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes
 - 링크드인: 
 
 ## 현재 학습 중
