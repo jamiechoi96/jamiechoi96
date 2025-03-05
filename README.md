@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### 언어 및 프레임워크
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -41,11 +42,16 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 개발 도구
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## GitHub 통계
 
@@ -70,26 +76,18 @@ Here are some ideas to get you started:
 - 링크드인: 
 
 ## 현재 학습 중
-- 데이터 분석 및 시각화 역량 강화
+- 데이터 분석 및 시각화 역량 강화 (Power BI, Tableau, Python)
 - 사용자 중심의 웹 서비스 개발
 - 클린 코드 작성과 최신 개발 트렌드 학습
 - SQL과 Tableau를 활용한 데이터 분석 심화
+- UI/UX 디자인 개선 및 Figma 활용 능력 향상
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamiechoi96&color=blueviolet" alt="프로필 조회수" />
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p align="center">이메일: jamiechoi96@naver.com</p>
 <p align="center">GitHub: https://github.com/jamiechoi96</p>
 <p align="center">TableauPublic : https://public.tableau.com/app/profile/jae.won.choi/vizzes</p>
