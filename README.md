@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- ### <h2 align="center">💻 Tech Stack 💻</h2> -->
 <div align="center">
   
-</div>
+
 
 ## 자기소개
 사용자 경험을 개선하는 데이터 기반 의사결정과 직관적인 UI/UX 구현에 관심이 많은 개발자입니다.
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
 ## GitHub 통계
 
 <div align="center">
