@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4B0082,100:8A2BE2&height=300&section=header&text=CHOI%20JAE%20WON&fontSize=70&fontAlignY=55&desc=Data%20Analyst%20|%20Developer%20|%20Tableau%20Specialist&descAlignY=75&fontColor=b6b6b6" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4B0082,100:8A2BE2&height=300&section=header&text=CHOI%20JAE%20WON&fontSize=70&fontAlignY=55&desc=Data%20Analyst%20|%20Data%20Engineer%20|%20BI%20Consultant&descAlignY=75&fontColor=b6b6b6" alt="header"/>
 </p>
 
 
----
 
 ## 📌 About Me 
 📢 **자기소개**  
