@@ -89,7 +89,7 @@
 📩 **이메일**: [jamiechoi96@naver.com](mailto:jamiechoi96@naver.com)  
 🐙 **GitHub**: [github.com/jamiechoi96](https://github.com/jamiechoi96)  
 📊 **Tableau Public**: [public.tableau.com/profile/jae.won.choi/vizzes](https://public.tableau.com/app/profile/jae.won.choi/vizzes)  
-💼 **LinkedIn**: (추가 가능)  
+💼 **LinkedIn**: 
 
 ---
 
