@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau Logo" width="200"/>
+</div>
+
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=Tableau&logoColor=white)
 ### 개발 도구
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
