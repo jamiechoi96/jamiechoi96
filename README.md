@@ -4,76 +4,92 @@
 
 <h2 align="center">✨ 데이터 속 숨겨진 의미를 찾아내고, 직관적인 시각화로 통찰력을 제공하는 데이터 분석가 ✨</h2>
 
-<p align="center">💡 데이터 기반 의사결정과 맞춤형 시각화 대시보드 구축을 통해 가치를 창출합니다.</p>
+<p align="center" style="font-size:18px">💡 데이터 기반 의사결정과 맞춤형 시각화 대시보드 구축을 통해 가치를 창출합니다.</p>
 
 ---
 
-## 📌 About Me
-🔍 **이름**: 최재원 (Choi Jae Won)  
-🎂 **출생연도**: 1996년 (만 28세)  
-📍 **거주지**: 경기 하남시 대청로116번길  
-📩 **이메일**: [jamiechoi96@naver.com](mailto:jamiechoi96@naver.com)  
-🌐 **포트폴리오**: [📊 Tableau Public](https://public.tableau.com/app/profile/jae.won.choi/vizzes) | [🐙 GitHub](https://github.com/jamiechoi96)  
-
----
-
-## 🚀 Tech Stack & Tools  
+## 📌 About Me  
 <table>
   <tr>
-    <td align="center"><b>🖥️ Language</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    </td>
+    <td>🔍 <b>이름</b></td>
+    <td>최재원 (Choi Jae Won)</td>
   </tr>
   <tr>
-    <td align="center"><b>🛠 Frameworks & Libraries</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    </td>
+    <td>🎂 <b>출생연도</b></td>
+    <td>1996년 (만 28세)</td>
   </tr>
   <tr>
-    <td align="center"><b>📊 Data Analysis</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=Tableau&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
+    <td>📍 <b>거주지</b></td>
+    <td>경기 하남시 대청로116번길</td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Dev Tools</b></td>
+    <td>📩 <b>이메일</b></td>
+    <td><a href="mailto:jamiechoi96@naver.com">jamiechoi96@naver.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>포트폴리오</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <a href="https://public.tableau.com/app/profile/jae.won.choi/vizzes">📊 Tableau Public</a> |
+      <a href="https://github.com/jamiechoi96">🐙 GitHub</a>
     </td>
   </tr>
 </table>
 
 ---
 
+## 🚀 Tech Stack & Tools  
+
+### 🖥️ Language  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+### 🛠 Frameworks & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis  
+<p>
+  <img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Dev Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
 ## 🎯 주요 프로젝트
 
 ### **📌 VODiscovery - 개인 맞춤형 VOD 추천 시스템**
-- 🔹 **개요**: LG 헬로비전 DX 데이터스쿨 3기 프로젝트로, 사용자 맞춤형 VOD 추천 시스템 개발  
-- 🔹 **기술 스택**: `React.js`, `Node.js`, `MySQL`, `Python`, `Tableau`  
-- 🔹 **핵심 기능**:
+📅 **기간**: 2024.12.23 ~ 2025.02.20  
+🔹 **기술 스택**: `React.js`, `Node.js`, `MySQL`, `Python`, `Tableau`  
+🔹 **핵심 기능**:
   - ✅ **사용자 기반 협업 필터링 & 줄거리 기반 추천 모델 적용**  
   - ✅ **JWT 인증 기반 로그인 및 시청 기록 저장 기능 개발**  
   - ✅ **Tableau를 활용한 시청 패턴 분석 대시보드 제작**  
-- 🔹 **프로젝트 링크**: [🔗 GitHub Repository](https://github.com/jamiechoi96/team3_web)  
+🔹 **프로젝트 링크**: [🔗 GitHub Repository](https://github.com/jamiechoi96/team3_web)  
+
+---
 
 ### **📌 한강공원 이용객 & 쓰레기 배출량 분석 프로젝트**  
-- 🔹 **개요**: 공공 데이터를 활용하여 환경 문제 해결을 위한 데이터 분석  
-- 🔹 **기술 스택**: `Python (Pandas, NumPy)`, `SQL`, `Tableau`  
-- 🔹 **핵심 기능**:
+📅 **기간**: XXXX.XX ~ XXXX.XX  
+🔹 **기술 스택**: `Python (Pandas, NumPy)`, `SQL`, `Tableau`  
+🔹 **핵심 기능**:
   - ✅ **한강공원 이용객 수 & 쓰레기 배출량 상관관계 분석**  
   - ✅ **Python을 활용한 데이터 클리닝 및 시각화**  
   - ✅ **Tableau 대시보드를 통해 정책 개선 방안 제안**  
-- 🔹 **포트폴리오 링크**: [📊 Tableau Public](https://public.tableau.com/app/profile/jae.won.choi/vizzes)  
+🔹 **포트폴리오 링크**: [📊 Tableau Public](https://public.tableau.com/app/profile/jae.won.choi/vizzes)  
 
 ---
 
@@ -89,7 +105,6 @@
 📩 **이메일**: [jamiechoi96@naver.com](mailto:jamiechoi96@naver.com)  
 🐙 **GitHub**: [github.com/jamiechoi96](https://github.com/jamiechoi96)  
 📊 **Tableau Public**: [public.tableau.com/profile/jae.won.choi/vizzes](https://public.tableau.com/app/profile/jae.won.choi/vizzes)  
-💼 **LinkedIn**: 
 
 ---
 
