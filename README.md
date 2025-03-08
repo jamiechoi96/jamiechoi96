@@ -9,6 +9,10 @@
 ---
 
 ## 📌 About Me  
+📢 **자기소개**  
+사용자 경험을 개선하는 **데이터 기반 의사결정**과 **직관적인 시각화 대시보드 구현**에 관심이 많은 개발자입니다.  
+데이터 분석과 웹 개발 기술을 활용하여 **사용자에게 가치 있는 서비스를 제공**하고자 합니다.
+
 <table>
   <tr>
     <td>🔍 <b>이름</b></td>
@@ -30,8 +34,13 @@
     <td>🌐 <b>포트폴리오</b></td>
     <td>
       <a href="https://public.tableau.com/app/profile/jae.won.choi/vizzes">📊 Tableau Public</a> |
-      <a href="https://github.com/jamiechoi96">🐙 GitHub</a>
+      <a href="https://github.com/jamiechoi96">🐙 GitHub</a> |
+      <a href="https://www.notion.so/YOUR_NOTION_LINK">📑 Notion</a>
     </td>
+  </tr>
+  <tr>
+    <td>💼 <b>LinkedIn</b></td>
+    <td>추후 추가 예정</td>
   </tr>
 </table>
 
@@ -105,6 +114,8 @@
 📩 **이메일**: [jamiechoi96@naver.com](mailto:jamiechoi96@naver.com)  
 🐙 **GitHub**: [github.com/jamiechoi96](https://github.com/jamiechoi96)  
 📊 **Tableau Public**: [public.tableau.com/profile/jae.won.choi/vizzes](https://public.tableau.com/app/profile/jae.won.choi/vizzes)  
+📑 **Notion**: [YOUR_NOTION_LINK](https://www.notion.so/YOUR_NOTION_LINK)  
+💼 **LinkedIn**: **추후 추가 예정**  
 
 ---
 
