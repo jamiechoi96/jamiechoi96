@@ -14,14 +14,6 @@
     <td>최재원 (Choi Jae Won)</td>
   </tr>
   <tr>
-    <td>🎂 <b>출생연도</b></td>
-    <td>1996년 (만 28세)</td>
-  </tr>
-  <tr>
-    <td>📍 <b>거주지</b></td>
-    <td>경기 하남시 대청로116번길</td>
-  </tr>
-  <tr>
     <td>📩 <b>이메일</b></td>
     <td><a href="mailto:jamiechoi96@naver.com">jamiechoi96@naver.com</a></td>
   </tr>
