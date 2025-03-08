@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4B0082,100:8A2BE2&height=250&section=header&text=CHOI%20JAE%20WON&fontSize=70&fontAlignY=55&desc=Data%20Analyst%20|%20Developer%20|%20Tableau%20Specialist&descAlignY=75&fontColor=b6b6b6" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4B0082,100:8A2BE2&height=300&section=header&text=CHOI%20JAE%20WON&fontSize=70&fontAlignY=55&desc=Data%20Analyst%20|%20Developer%20|%20Tableau%20Specialist&descAlignY=75&fontColor=b6b6b6" alt="header"/>
 </p>
-
 <h2 align="center">✨ 데이터 속 숨겨진 의미를 찾아내고, 직관적인 시각화로 통찰력을 제공하는 데이터 분석가 ✨</h2>
 
 <p align="center" style="font-size:18px">💡 데이터 기반 의사결정과 맞춤형 시각화 대시보드 구축을 통해 가치를 창출합니다.</p>
