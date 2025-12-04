@@ -90,14 +90,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamiechoi96&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiechoi96&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 연락처  
 📩 **이메일**: [jamiechoi96@naver.com](mailto:jamiechoi96@naver.com)  
 🐙 **GitHub**: [github.com/jamiechoi96](https://github.com/jamiechoi96)  
