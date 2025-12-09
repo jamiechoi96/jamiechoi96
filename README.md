@@ -22,7 +22,7 @@
     <td>
       <a href="https://public.tableau.com/app/profile/jae.won.choi/vizzes">📊 Tableau Public</a> |
       <a href="https://github.com/jamiechoi96">🐙 GitHub</a> |
-      <a href="https://www.notion.so/1afc68f616d4801faca9f401a52a3a0e">📑 Notion</a>
+      <%-- <a href="https://www.notion.so/1afc68f616d4801faca9f401a52a3a0e">📑 Notion</a> --%>
     </td>
   </tr>
   <tr>
